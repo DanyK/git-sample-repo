@@ -10,3 +10,46 @@ git log 						->
 git diff <filename> 					-> 
 git remote add origin <GitHub Repository URL> 		-> 
 git push origin master 					-> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      PrivateBranch1-----------------------------
+		      |						|
+		      |						|
+		      |						|
+--------------------Master----------Release---------------Master--------------------------Master-------------Release--------------------Master----------------------------
+                     |										|
+		     |										|Pull and then merge
+		PrivateBranch2-------------------------------------------------------------------
